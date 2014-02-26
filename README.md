@@ -1,4 +1,4 @@
 pnrstatusapp-v1
 ===============
 
-A PNRStatusApp implementation done in Flex.
+A PNRStatusApp implementation developed using Adobe Flex based on Adobe AIR platform.
