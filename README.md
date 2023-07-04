@@ -1,7 +1,7 @@
+_This project is not actively maintained or supported since 2013, but hosted here since it is open source and for educational purposes_
+
 ## pnr-status-app-flex
 A PNRStatusApp implementation for the desktop developed using Adobe Flex based on Adobe AIR platform.
-
-** This project is not actively maintained or supported since 2013, but hosted here since it is open source and for educational purposes **
 
 ## Frameworks Used
 This project uses the "Mate Flex Framework", a very good frameowrk for Flex projects, as opposed to the "Cairngorm Framework".
